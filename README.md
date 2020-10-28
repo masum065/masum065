@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**masum065/masum065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Masum Billah ⚡
+[![HitCount](http://hits.dwyl.com/masum065/masum065.svg)](http://hits.dwyl.com/masum065/masum065)
+### I'm a MERN stack developer & Learner
 
-Here are some ideas to get you started:
+-   I'm very passionate about programming. ❤
+-   I am interested about building excellent software that improves the lives of those around me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+<!-- ### Connect with me:
+
+[<img align="left" alt="Israfil-cse.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
+
+<br />
+
+### 📑 My Resume:
+
+##### 🖨 [resume pdf and doc](https://drive.google.com/file/d/1QHI7m3FgTSLOPe8H8eoyLJZAT2lzJAWW/view?usp=sharing)
+
+<br />
+
