@@ -16,7 +16,7 @@
 
 ### 📑 My Resume:
 
-##### 🖨 [resume pdf and doc](https://drive.google.com/file/d/1MtLnbMuuHP5upT3byCd1yI6snWDH6LST/view?usp=sharing)
+##### 🖨 [resume pdf and doc](https://drive.google.com/file/d/1Z_WLP4tzg9AL7tLehhcTi4kbdaGk-7Dc/view?usp=drivesdk)
 
 <br />
 
